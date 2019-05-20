@@ -1,0 +1,13 @@
+.icon{
+    font-size:2em;
+    padding-top:10px;
+}
+#delete { 
+    display: inline;
+}
+#head{
+    display:inline;
+}
+#foot{
+     text-align:right;
+}
